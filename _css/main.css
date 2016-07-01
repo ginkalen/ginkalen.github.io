@@ -1,0 +1,12 @@
+body {
+	background-color: #666;
+	margin-top: 50px;
+}
+
+img {
+	max-width: 100%;
+	border: 10px solid;
+	border-color: #B7B4B4;
+	border-radius: 50% 0;
+	overflow: hidden;
+}
