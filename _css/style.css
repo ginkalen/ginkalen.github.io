@@ -1,12 +1,6 @@
-body {
-	background-color: #666;
-	margin-top: 50px;
-}
+*{ margin:0; padding:0; box-sizing:border-box;}
 
-img {
-	max-width: 100%;
-	border: 10px solid;
-	border-color: #B7B4B4;
-	border-radius: 50% 0;
-	overflow: hidden;
+body{
+	background: yellow;
+	font-size: 20px;
 }
